@@ -24,4 +24,4 @@ This polynomial project can perform addition or multiplication operations on two
 	 
 Some example textfiles are provided: p1.txt, p2.txt, ptest1.txt, ptest2.txt, ptest1opp.txt, save1.txt, save2.txt
 
-ALL USE OF THIS CODE MUST COMPLY WITH THE RUTGERS UNIVERSITY CODE OF STUDENT CONDUCT. http://eden.rutgers.edu/%7Epmj34/media/AcademicIntegrity.pdf
+ALL USE OF THIS CODE MUST COMPLY WITH THE [RUTGERS UNIVERSITY CODE OF STUDENT CONDUCT](http://eden.rutgers.edu/%7Epmj34/media/AcademicIntegrity.pdf).
