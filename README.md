@@ -23,4 +23,4 @@ The user must provide the name of the text files along with an input to indicate
 	 
 Some example textfiles are provided: p1.txt, p2.txt, ptest1.txt, ptest2.txt, ptest1opp.txt, save1.txt, save2.txt
 
-ALL USE OF THIS CODE MUST COMPLY WITH THE [RUTGERS UNIVERSITY CODE OF STUDENT CONDUCT](http://eden.rutgers.edu/%7Epmj34/media/AcademicIntegrity.pdf).
+All use of this code must comply with the [Rutgers University Code of Student Conduct](http://eden.rutgers.edu/%7Epmj34/media/AcademicIntegrity.pdf).
