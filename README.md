@@ -14,13 +14,12 @@ This polynomial project can perform addition or multiplication operations on two
 	 *      3 0
 	 * will represent the polynomial:
 	 *      4*x^5 - 2*x^3 + 2*x + 3 
-	 
-	 
-	 The user must provide the name of the text files along with an input to indicate a specific instruction/operation to be performed on the polynomials. The input must be a numeric value between 1 to 4.
-	 1. ADD
-	 2. MULTIPLY
-	 3. EVALUATE
-	 4. EXIT
+
+The user must provide the name of the text files along with an input to indicate a specific instruction/operation to be performed on the polynomials. The input must be a numeric value between 1 to 4.
+1. ADD
+2. MULTIPLY
+3. EVALUATE
+4. EXIT
 	 
 Some example textfiles are provided: p1.txt, p2.txt, ptest1.txt, ptest2.txt, ptest1opp.txt, save1.txt, save2.txt
 
